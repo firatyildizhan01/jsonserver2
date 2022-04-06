@@ -1,4 +1,4 @@
-   {
+   [{
     "name": "req",
     "capital": "sfg",
     "region": "sgf",
@@ -254,3 +254,4 @@
     "flag": "https://raw.githubusercontent.com/atilsamancioglu/IA19-DataSetCountries/master/tur.png",
     "language": "Turkish"
   }
+    ]
